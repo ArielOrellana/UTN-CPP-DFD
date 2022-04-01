@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+62
+'introdusca A B C para resolver una ecuacion de segundo grado'
+5
+1
+7
+A, B, C
+6
+2
+2
+X1
+24
+(-B+SQRT(B^2-4*A*C))/2*A
+2
+X2
+24
+(-B-SQRT(B^2-4*A*C))/2*A
+4
+1
+9
+'X1=', X1
+4
+1
+9
+'X2=', X2
+1

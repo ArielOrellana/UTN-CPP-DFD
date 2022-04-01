@@ -1,0 +1,93 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+11
+'ingrese x'
+5
+1
+1
+x
+4
+1
+11
+'ingrese y'
+5
+1
+1
+y
+7
+0
+1
+11
+x=0 and y=0
+7
+0
+1
+3
+x=0
+7
+0
+1
+3
+y=0
+7
+0
+1
+3
+x>0
+7
+0
+1
+3
+y>0
+4
+1
+13
+'cuadrante 3'
+13
+4
+1
+13
+'cuadrante 2'
+13
+13
+7
+0
+1
+3
+y>0
+4
+1
+32
+'se encuentra en el cuadrante 4'
+13
+4
+1
+32
+'se encuentra en el cuadrante 1'
+13
+13
+13
+4
+1
+26
+'se encuentra en el eje x'
+13
+13
+4
+1
+26
+'se encuentra en el eje y'
+13
+13
+4
+1
+33
+'se encuentra en punto de origen'
+13
+1

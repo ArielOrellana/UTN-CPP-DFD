@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+32
+'ingrese el radio de un circulo'
+5
+1
+1
+N
+6
+2
+1
+A
+8
+3.14*N^2
+1
+P
+8
+2*3.14*N
+4
+1
+27
+'el area del circulo es', A
+4
+1
+32
+'el perimetro del circulo es', P
+1

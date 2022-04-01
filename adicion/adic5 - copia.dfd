@@ -1,0 +1,66 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+22
+'ingrese tres valores'
+5
+1
+7
+x, y, z
+6
+3
+1
+m
+3
+x+y
+1
+n
+3
+x+z
+1
+o
+3
+y+z
+7
+0
+1
+3
+x=o
+7
+0
+1
+3
+y=n
+7
+0
+1
+3
+z=m
+4
+1
+10
+'Distinto'
+13
+4
+1
+13
+'iguales a z'
+13
+13
+4
+1
+13
+'iguales a y'
+13
+13
+4
+1
+13
+'iguales a x'
+13
+1

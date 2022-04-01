@@ -1,0 +1,63 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+21
+'ingrese los angulos'
+5
+1
+4
+x, y
+7
+0
+1
+4
+x<90
+7
+0
+1
+4
+y>90
+7
+0
+1
+4
+y<90
+4
+1
+27
+'no es trangulo rectangulo'
+13
+4
+1
+28
+'no es triangulo rectangulo'
+13
+13
+4
+1
+27
+'no es trangulo rectangulo'
+13
+13
+7
+0
+1
+4
+y<90
+4
+1
+28
+'no es triangulo rectangulo'
+13
+4
+1
+22
+'triangulo rectangulo'
+13
+13
+1

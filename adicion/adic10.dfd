@@ -1,0 +1,73 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+24
+'ingrese hora y minutos'
+5
+1
+4
+a, b
+7
+0
+1
+14
+a>=7 and b<=30
+7
+0
+1
+14
+a<=7 and b<=29
+13
+4
+1
+15
+'buenas noches'
+13
+13
+7
+0
+1
+15
+a<=14 and b>=00
+7
+0
+1
+15
+a>=14 and b>=01
+13
+7
+0
+1
+15
+a<=20 and b<=30
+7
+0
+1
+15
+a>=20 and b<=31
+13
+4
+1
+15
+'buenas noches'
+13
+13
+4
+1
+15
+'buenas tardes'
+13
+13
+13
+4
+1
+13
+'buenos dias'
+13
+13
+1
